@@ -8,4 +8,4 @@ Homework 2 is a sequential program which simulates a reduction operation in a bi
 Homework 3 is a parallel program in MPI which finds the saddle point of a matrix.
 
 ## Assignment 4
-Homework 4 is a parallel program in MPI which
+Homework 4 is a parallel program in MPI which finds the steady state temperature of a 2D plate. 
